@@ -41,4 +41,3 @@ Dinner
 	4 oz meat
 	1 cup vegetables
 	1 bowl fruit
-	

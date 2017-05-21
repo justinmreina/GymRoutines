@@ -26,9 +26,7 @@ Goal
 //-----------------------------------------------------------------------------------//
 Breakfast
 	2 HB Eggs
-	Yogurt
-	Granola
-	Protein Shake (small?)
+	Milk & Cereal
 
 Lunch
 	Turkey Sandwich
@@ -38,6 +36,6 @@ Snack
 	Juicer
 	
 Dinner
-	4 oz meat
+	6 oz meat
 	1 cup vegetables
 	1 bowl fruit

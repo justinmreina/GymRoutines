@@ -1,0 +1,68 @@
+@brief 		Workout Plans
+@details	x
+@auth 		Justin Reina
+@date 		11/7/20
+
+
+@section 	Monday - Full Body
+	Deadlift						3x12
+	...
+	Machine Shoulder Press			3x12
+	...
+	Burpees							3x12
+	Cable Face Pull					3x12
+	Kettlebell Swing				3x12
+	...
+	Kettlebell Lunge				3x12
+	Kettlebell Squat				3x12
+
+@section 	Tuesday - Legs
+	Machine Leg Press				15(L)/11(M)/10(H)/8(XH)/15(L)
+	...
+	Barbell Lunge					3x12
+	...
+	Bulgarian Split Squat			3x8
+	Single Leg Romanian Deadlift	3x8
+	...
+	Machine Leg Extension			3x8
+	...
+	Skater Squat					3x8
+	...
+	Kettlebell Press Out			3x8
+
+@section 	Thursday - Upper Body
+	Machine Chest Press				3x12
+	...
+	Renegade Row					3x12
+	...
+	Dumbbell Biceps Curl			3x12
+	...
+	Cable Triceps Pushdown			3x12
+	Kettlebell Incline Fly			3x12
+	Machine Lateral Raise			3x12
+	...
+	Russian Twist					3x10
+
+@section 	Friday - Full Body
+	Clean & Jerk					3x12
+	Side Plank Row					3x10
+	...
+	Dip								3x12
+	Crab Walk						3x10
+	Wall Ball						3x15
+	...
+	Raised Knee Pullups				3x12
+	...
+	Dumbbell Lunge to Press			3x12
+
+@section 	Saturday
+	Weighted Situp					3x20
+	Calf Raise						3x12
+	...
+	Machine Leg Extension			3x12
+	Recovery Lift					3
+	Back Raise						3x12
+	...
+	Nordic Hamstring Curl			3x12
+	Dumbbell Row Kickback			3x12
+

@@ -1,8 +1,11 @@
 @brief 		Fitness Plans
 @details 	x
 @auth		Justin Reina
-@date 		10/25/20
+@date 		11/11/20
 
+
+@section 	Dev Notes
+	Make an explicit listing of cardio exercises used
 
 @section 	Legs
 	//9 lifts

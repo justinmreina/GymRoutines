@@ -1,0 +1,87 @@
+@brief 		Muscle Breakdown
+@details 	x
+@auth 		Justin Reina
+@date 		11/13/20
+
+
+@section 	Muscles
+	Glutes
+	Quads
+	Calves
+	Abs
+	Hamstrings
+	Traps
+	Biceps
+	Delts
+	Lats
+	Hips
+	Rotators
+	Soleus
+	Pecs
+	Lower Back
+	Shoulders
+	Obliques
+	Upper Back
+	Shins
+
+
+@section 	Abs
+	Burpees, Clean & Jerk, Raised Knee Pullups, DB Lunge-to-Press, Wheel Roll-out, Decline Weighted Crunch, Plate Side-Bend, Farmer Carry, Renegade Row, Weighted Situp
+
+@section 	Biceps
+	Face Pull, DB Curl, KB Incline Fly
+
+@section 	Calves
+	Deadlift, Burpees, Mach Leg Press, Calf Raise, Farmer Carry
+
+@section 	Delts
+	Mach Shoulder Press, KB Press-Out, KB Incline Fly, Mach Lat Raise, Dips
+
+@section 	Forearms
+	Farmer Carry, Renegade Row
+
+@section 	Glutes
+	Deadlift, Burpees, KB Lunge, KB Swing, KB Squat, Mach Leg Press, BB Lunge, Bulgarian Squat, Single Leg Romanian Deadlift, Side-Plank Row, Back Raise, Nordic Hamstring Curl, Farmer Carry
+
+@section 	Hamstrings
+	Burpees, KB Swing, BB Lunge, Clean & Jerk, Wall Ball, DB Lunge-to-Press, Back Raise
+
+@section 	Hips
+	KB Swing, Decline Weighted Crunch
+
+@section 	Quads
+	Deadlift, KB Lunge, KB Squat, Mach Leg Press, BB Lunge, Bulgarian Squat, Mach Leg Extension, Clean & Jerk, Wall Ball, DB Lunge-to-Press
+
+@section 	Lats
+	KB Swing, Single Leg Romanian Deadlift, Renegade Row
+
+@section 	Back
+	Clean & Jerk, Side-Plank Row, Wall Ball, Raised Knee Pullups, Back Raise, Nordic Hamstring Curl, DB Row Kickback, Decline Weighted Crunch, Farmer Carry
+
+@section 	Obliques
+	Side-Plank Row, Plate Side-Bend, Renegade Row, Bosu Russian Twist
+
+@section 	Pecs
+	KB Press-Out, Mach Chest Press, KB Incline Fly, Dips, Decline Weighted Crunch
+
+@section 	Rotators
+	Mach Shoulder Press, Mach Lat Raise
+
+@section 	Soleus
+	Bulgarian Squat
+
+@section 	Shins
+	Calf Raise
+
+@section 	Shoulders
+	KB Swing, Clean & Jerk, Wall Ball, Raised Knee Pullups, DB Lunge-to-Press, Shoulders
+
+@section 	Traps
+	Face Pull, Single Leg Romanian Deadlift, DB Row Kickback, Shrugs
+
+@section 	Triceps
+	KB Press-Out, Cable Pushdown, Clean & Jerk, Dips, DB Row Kickback, Renegade Row
+
+@section 	Pecs
+	KB Press-Out
+
